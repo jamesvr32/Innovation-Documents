@@ -8,6 +8,4 @@ Resources available at Newton Gresham Library
 
 Davenport, et al. The Complete Guide to Business Analytics
 
- 
 
-Add label
