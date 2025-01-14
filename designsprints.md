@@ -9,5 +9,3 @@ Banfield, Richard, Design Sprints for Teams
 Ferreira, Vinícius Gomes, Canedo, Edna Dias, Design Sprint in Classroom: Exploring New Active Learning Tools for Project-based Learning Approach
 
 Soyupak, Ozan, Embedding Design Sprint into Industrial Design Education
-
-Add label
